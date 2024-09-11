@@ -12,7 +12,7 @@ const Informacion = () => {
                 faskjdfnaskdfnadakjsdfnadskjfbalsdnfhsdkfjgndskfjgnsdfkgsdn
                 fkgjdsfngkjlsdfgnlskdfjlksfmgsdfk;lgnsdkfjsdnflkdfsng
             </p>
-            <Teoria></Teoria>
+            <Teoria comision='101i'></Teoria>
         </section>
         
     );
