@@ -1,3 +1,5 @@
+import Teoria from "./Teoria.jsx"
+
 const Informacion = () => {
 // aqui agrego la mayor parte de logica
 
@@ -10,7 +12,9 @@ const Informacion = () => {
                 faskjdfnaskdfnadakjsdfnadskjfbalsdnfhsdkfjgndskfjgnsdfkgsdn
                 fkgjdsfngkjlsdfgnlskdfjlksfmgsdfk;lgnsdkfjsdnflkdfsng
             </p>
+            <Teoria></Teoria>
         </section>
+        
     );
 };
 
