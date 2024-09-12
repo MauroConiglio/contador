@@ -2,6 +2,7 @@ import Teoria from "./Teoria.jsx"
 
 const Informacion = () => {
 // aqui agrego la mayor parte de logica
+const anio= new Date().getFullYear();
 
     return (
         //algo de logica
@@ -12,7 +13,7 @@ const Informacion = () => {
                 faskjdfnaskdfnadakjsdfnadskjfbalsdnfhsdkfjgndskfjgnsdfkgsdn
                 fkgjdsfngkjlsdfgnlskdfjlksfmgsdfk;lgnsdkfjsdnflkdfsng
             </p>
-            <Teoria comision='101i'></Teoria>
+            <Teoria comision='101i' anioActual={anio}></Teoria>
         </section>
         
     );

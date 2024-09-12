@@ -13,7 +13,7 @@ const Teoria = (props) => {
                 lkasdjfnlaksjdasnkldjfnasldkjfasndlkfjasndlfkjadsnfkadf
                 klafjsdnfklajsdfnaskldjfasdf
             </p>
-            <h4>Comision:{props.comision} </h4>
+            <h4>Comision:{props.comision} - Anio Actual: {props.anioActual} </h4>
         </article>
     );
 };
