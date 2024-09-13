@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Informacion from './components/Informacion.jsx'
+import Contador from './components/Contador.jsx'
 function App() {
  
 
@@ -13,6 +14,7 @@ function App() {
           Atque dicta quisquam quasi rerum labore tenetur, corrupti deserunt
            architecto non eligendi!</p>
           <Informacion></Informacion>
+          <Contador></Contador>
     </main>
    
   )
